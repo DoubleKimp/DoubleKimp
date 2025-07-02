@@ -69,7 +69,7 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <br><strong>JavaScript</strong>
 </td>
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
-<img src="./imagesdart-original.svg" alt="Dart" width="60" height="60"/>
+<img src="./images/dart-original.svg" alt="Dart" width="60" height="60"/>
 <br><strong>Dart</strong>
 </td>
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
