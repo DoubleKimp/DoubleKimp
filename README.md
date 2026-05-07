@@ -42,6 +42,16 @@ class Developer:
                 "Take time to travel and celebrate the journey"
             ]
         }
+    
+    def get_accomplished_goals(self) -> dict[str, list[str]]:
+        return {
+            "2025": [
+                "Complete cybersecurity minor successfully",
+                "Finish third year of Computer Science degree",
+                "Secure internship opportunity for final year"
+            ],
+            "2026": []
+        }
 ```
 
 I'm a Computer Science student who loves turning complex problems into elegant solutions. Whether it's building web applications, exploring cybersecurity concepts, or diving into new technologies, I'm driven by curiosity and the satisfaction of creating something that works beautifully.
