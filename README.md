@@ -192,6 +192,9 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <br><strong>Linux</strong>
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
 <img src="./images/AWS_Logo.svg" alt="AWS" width="60" height="60"/>
@@ -205,7 +208,6 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <img src="./images/Windows_2021-logo.svg" alt="Windows" width="60" height="60"/>
 <br><strong>Windows</strong>
 </td>
-<td colspan="2" style="border: none; background: transparent;"></td>
 </tr>
 <tr>
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
@@ -220,7 +222,6 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="60" height="60"/>
 <br><strong>n8n</strong>
 </td>
-<td colspan="2" style="border: none; background: transparent;"></td>
 </tr>
 </table>
 
