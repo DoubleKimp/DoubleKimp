@@ -119,6 +119,18 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <img src="./images/riverpod-logo.svg" alt="Riverpod" width="60" height="60"/>
 <br><strong>Riverpod 3.0</strong>
 </td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="NextJS" width="60" height="60"/>
+<br><strong>NextJS</strong>
+</td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="60" height="60"/>
+<br><strong>Laravel</strong>
+</td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="60" height="60"/>
+<br><strong>Prisma</strong>
+</td>
 </tr>
 </table>
 
@@ -141,6 +153,16 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
 <img src="./images/Firestore.svg" alt="NoSQL" width="60" height="60"/>
 <br><strong>Firestore</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="60" height="60"/>
+<br><strong>SQLite</strong>
+</td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="60" height="60"/>
+<br><strong>PostgreSQL</strong>
 </td>
 </tr>
 </table>
@@ -182,6 +204,20 @@ My approach combines technical skills with creative problem-solving - skills I'v
 <td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
 <img src="./images/Windows_2021-logo.svg" alt="Windows" width="60" height="60"/>
 <br><strong>Windows</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel Sail" width="60" height="60"/>
+<br><strong>Laravel Sail</strong>
+</td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="60" height="60"/>
+<br><strong>RabbitMQ</strong>
+</td>
+<td align="center" width="120" style="border: 1px solid #30363d; border-radius: 8px; background: linear-gradient(135deg, #21262d 0%, #161b22 100%); padding: 16px;">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="60" height="60"/>
+<br><strong>n8n</strong>
 </td>
 </tr>
 </table>
