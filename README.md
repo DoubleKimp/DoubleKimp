@@ -37,8 +37,8 @@ class Developer:
     
     IN_PROGRESS = {
         "2026": {
-            "Complete internship and graduate": "90%",
-            "Decide between master's or workforce": "Evaluating offers",
+            "Complete internship and graduate": "80%",
+            "Decide between master's or workforce": "Still deciding",
             "Take time to travel and celebrate": "Planning"
         }
     }
