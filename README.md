@@ -21,37 +21,44 @@
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Karsten Keemink"
-        self.location = "Rotterdam, Netherlands"
-        self.education = "HBO Computer Science @ Hogeschool Rotterdam"
-        self.interests = ["Software Development", "Technology Innovation", "Problem Solving", "Gaming"]
-        self.current_focus = "Building scalable applications & exploring new technologies"
-        self.fun_fact = "I approach coding challenges with the same strategic mindset I use in gaming"
-  
-    def get_goals(self) -> dict[str, list[str]]:
-        return {
-            "2025": [
-                "Complete cybersecurity minor successfully",
-                "Finish third year of Computer Science degree",
-                "Secure internship opportunity for final year"
-            ],
-            "2026": [
-                "Complete internship and graduate",
-                "Decide between pursuing master's degree or entering the workforce",
-                "Take time to travel and celebrate the journey"
-            ]
-        }
+    name = "Karsten Keemink"
+    location = "Rotterdam, Netherlands"
+    education = "HBO Computer Science @ Hogeschool Rotterdam"
+    current_focus = "Building scalable applications & exploring new technologies"
+    interests = ["Software Development", "Technology Innovation", "Problem Solving", "Gaming"]
     
-    def get_accomplished_goals(self) -> dict[str, list[str]]:
-        return {
-            "2025": [
-                "Complete cybersecurity minor successfully",
-                "Finish third year of Computer Science degree",
-                "Secure internship opportunity for final year"
-            ],
-            "2026": []
+    ACCOMPLISHED = {
+        "2025": [
+            "Completed cybersecurity minor successfully",
+            "Finished third year of Computer Science degree",
+            "Secured internship opportunity for final year"
+        ]
+    }
+    
+    IN_PROGRESS = {
+        "2026": {
+            "Complete internship and graduate": "90%",
+            "Decide between master's or workforce": "Evaluating offers",
+            "Take time to travel and celebrate": "Planning"
         }
+    }
+
+    @classmethod
+    def get_status(cls, year: str | int) -> list[str]:
+        year_str = str(year)
+        
+        if year_str in cls.ACCOMPLISHED:
+            return cls.ACCOMPLISHED[year_str]
+            
+        if year_str in cls.IN_PROGRESS:
+            return [f"{goal} -> {status}" for goal, status in cls.IN_PROGRESS[year_str].items()]
+            
+        return []
+
+
+print(*Developer.get_status(2025), sep="\n")
+
+print(*Developer.get_status(2026), sep="\n")
 ```
 
 I'm a Computer Science student who loves turning complex problems into elegant solutions. Whether it's building web applications, exploring cybersecurity concepts, or diving into new technologies, I'm driven by curiosity and the satisfaction of creating something that works beautifully.
